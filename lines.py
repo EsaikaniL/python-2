@@ -1,2 +1,2 @@
-x=input("Enter Paragraph").split('.')
+x = input("Enter Paragraph").split('.')
 print(len(x))
