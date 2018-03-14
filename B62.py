@@ -4,4 +4,4 @@ z=a.count('0')
 if(len(a)==o+z):
   print("yes")
 else:
-  print("no")
+  print("No")
