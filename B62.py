@@ -1,7 +1,7 @@
-a=list(input("enter number"))
-o=a.count('1')
-z=a.count('0')
-if(len(a)==o+z):
+n=list(input("enter number"))
+o=n.count('1')
+z=n.count('0')
+if(len(n)==o+z):
   print("yes")
 else:
   print("No")
