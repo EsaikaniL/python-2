@@ -1,2 +1,2 @@
-n=input("enter string")
-print(n.title())
+m=input("enter string")
+print(m.title())
