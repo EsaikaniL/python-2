@@ -6,5 +6,5 @@ def power(n):
         return power(n)
     else:
         print("no") 
-s=int(input("enter a numbers"))
+s = int(input("enter a numbers"))
 power(s)
